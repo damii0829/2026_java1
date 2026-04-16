@@ -2,7 +2,7 @@ package ai0402;
 
 import java.util.Scanner;
 
-public class Scaannernext {
+public class Scannernext {
     public static void main(String[] args) {
         Scanner s1 = new Scanner(System.in);
         System.out.println("========== Simple Calculator ===========");
