@@ -1,3 +1,5 @@
+package ai0416;
+
 public class ifElseTest {
     public static void main(String[] args) {
         int num = 200;
