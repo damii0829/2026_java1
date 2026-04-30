@@ -46,7 +46,7 @@ public class LAB_Switch {
             case 11:
                 System.out.println("양띠");
 
-        s.close();
         }
+        s.close();
     }
 }
