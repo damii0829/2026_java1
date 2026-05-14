@@ -2,11 +2,11 @@ package ai0423;
 
 import java.util.Scanner;
 
-public class Test2 {
+public class BMITest02 {
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
         Scanner s1 = new Scanner(System.in);
-        System.out.println("======== BMI(Bdoy Index Mass) =========");
+        System.out.println("======== BMI(Body Index Mass) =========");
 
         System.out.print("* 체중(㎏, 실수값)을 입력하세요.:");
         double weight = s.nextDouble();
