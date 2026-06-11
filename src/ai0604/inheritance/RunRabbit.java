@@ -8,7 +8,7 @@ public class RunRabbit {
         hr1.moveRightTen();
         hr1.printInfo();
         hr1.masterName = "폴리";
-        hr1.eatFeed("아주 좋은");
+        /*hr1.eatFeed("아주 좋은");*/
 
         MountainRabbit mr1 = new MountainRabbit();
         mr1.shape = "세모";
