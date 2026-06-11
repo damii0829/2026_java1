@@ -19,12 +19,14 @@ public class RunCarMain {
 
             if (speed == -1)
                 break;
+
             schoolBus.upSpeed(speed);
             sportsCar.upSpeed(speed);
 
             System.out.printf("스쿨버스의 현재 속도: %d\n", schoolBus.speed);
             System.out.printf("스포츠카의 현재 속도: %d\n", sportsCar.speed);
         }
+
         s1.close();
     }
 }
